@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Serialization;
+using System.Configuration;
 
 namespace NLayer_Entidades
 {
@@ -14,7 +15,7 @@ namespace NLayer_Entidades
         private TipoPrestamo _tipoPrestamo;
         private int _plazo;
         private double _monto;
-        private string _usuario;
+        private string _usuario = ConfigurationManager.AppSettings["Registro"];
         private int _id;
 
         /*aplica DataMember a las variables por propiedades 
