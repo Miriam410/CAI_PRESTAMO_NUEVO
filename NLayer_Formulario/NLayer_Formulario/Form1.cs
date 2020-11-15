@@ -55,7 +55,9 @@ namespace NLayer_Formulario
                 if (Flag)
                 {
                     txt_Monto.Enabled = true;
+                    double monto = Convert.ToDouble(txt_Monto.Text);
                     txt_Plazo.Enabled = true;
+                    int plazo = Convert.ToInt32(txt_Plazo.Text);
                 }
 
                 this._tipoPrestamoServicio.Insertar(tipoPrestamo);

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NLayer_Entidades;
 using System.Collections.Specialized;
 using System.Net;
 using System.Configuration;
