@@ -1,0 +1,13 @@
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\NLayer_Negocio.dll
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\NLayer_Negocio.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\NLayer_Datos.dll
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\NLayer_Entidades.dll
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\NLayer_Datos.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\NLayer_Entidades.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\obj\Debug\NLayer_Negocio.csprojAssemblyReference.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\obj\Debug\NLayer_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\obj\Debug\NLayer_Negocio.csproj.CopyComplete
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\obj\Debug\NLayer_Negocio.dll
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Negocio\obj\Debug\NLayer_Negocio.pdb

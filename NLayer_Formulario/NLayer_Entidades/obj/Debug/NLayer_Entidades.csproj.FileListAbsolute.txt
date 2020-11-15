@@ -1,0 +1,6 @@
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Entidades\bin\Debug\NLayer_Entidades.dll
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Entidades\bin\Debug\NLayer_Entidades.pdb
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Entidades\obj\Debug\NLayer_Entidades.csprojAssemblyReference.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Entidades\obj\Debug\NLayer_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Entidades\obj\Debug\NLayer_Entidades.dll
+C:\Users\chenm\OneDrive\文档\GitHub\CAI_PRESTAMO_NUEVO\NLayer_Formulario\NLayer_Entidades\obj\Debug\NLayer_Entidades.pdb
